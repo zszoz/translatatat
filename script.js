@@ -38,3 +38,5 @@ const enToAr = {
   
     document.getElementById("outputText").value = output;
   }
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3848609364752049"
+     crossorigin="anonymous"></script>
